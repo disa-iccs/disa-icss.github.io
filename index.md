@@ -2,7 +2,7 @@
 layout: post
 ---
 
-> The workshop on Classifier Learning from Difficult Data is organized during the [International Conference on Computational Science ICCS 2020](https://www.iccs-meeting.org/iccs2020/) in Amsterdam, The Netherlands.
+> The workshop on Computational methods for emerging problems in disinformation analysis is organized during the [International Conference on Computational Science ICCS 2020](https://www.iccs-meeting.org/iccs2020/) in Amsterdam, The Netherlands.
 
 > The session will be technically endorsement by IEEE SMC TC on Big Data Computing http://www.ieeesmc.org/technical-activities/cybernetics/big-data-computing as well by SocialTruth project (Socialtruth.eu), which has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No. 825477.
 
