@@ -24,7 +24,7 @@
         text-align: center;
         padding-top: 20px;
         clear: both;
-        text-transform: uppercase;
+        sstext-transform: uppercase;
         font-family: 'Open Sans';
 
         @include media-query($on-palm) {
@@ -52,7 +52,7 @@
     .site-header span {
         border: 10px solid #FFF;
         border-radius: 50px;
-        padding: 0.1em 0.5em 0.4em 0.5em;
+        padding: 0.25em 0.5em 0.25em 0.5em;
         margin: 10px 20px;
         display: inline-block;
 
