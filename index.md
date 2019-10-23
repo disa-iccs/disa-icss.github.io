@@ -4,22 +4,28 @@ layout: post
 
 > The workshop on Classifier Learning from Difficult Data is organized during the [International Conference on Computational Science ICCS 2020](https://www.iccs-meeting.org/iccs2020/) in Amsterdam, The Netherlands.
 
+> The session will be technically endorsement by IEEE SMC TC on Big Data Computing http://www.ieeesmc.org/technical-activities/cybernetics/big-data-computing as well by SocialTruth project (Socialtruth.eu), which has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No. 825477.
+
 # About
 
-Nowadays many practical decision task require to build models on the basis of data which included serious difficulties, as imbalanced class distributions, high number of classes, high-dimensional feature, small or extremely high number of learning examples, limited access to ground truth, data incompleteness, or data in motion, to enumerate only a few. Such characteristics may strongly deteriorate the final model performances. Therefore, the proposition of the new learning methods which can combat the mentioned above difficulties should be the focus of intense research.
-The main aim of this workshop is to discuss the problems of data difficulties, to identify new issues, and to shape future directions for research.
+The problem of the fake news publication is not new and it already has been reported in ancient ages, but it has started having a huge impact especially on social media users. Such false information should be detected as soon as possible to avoid its negative influence on the readers and in some cases on their decisions, e.g., during the election. Therefore, the methods which can effectively detect fake news are the focus of intense research.
+
+The main aim of this section is to bring together researchers and scientists from basic computing disciplines (computer science and mathematics), experts in legal and societal aspects as well as  researchers from various application areas who are pioneering fake news analysis methods to discuss problems and solutions in this area, to identify new issues, and to shape future directions for research.
+
 
 # Topics of interest
 
-- Learning from imbalanced data
-- learning from data streams, including concept drift management
-- learning with limited ground truth access
-- learning from high dimensional data
-- learning with a high number of classes
-- learning from massive data, including instance and prototype selection
-- learning on the basis of limited data sets, including one-shot learning
-- learning from incomplete data
-- case studies and real-world applications
++ detection fake news detection in social media
++ images and video manipulation recognition
++ architectural frameworks and design for fake news detection
++ learning how to detect the fake news in the presence of concept drift
++ learning how to detect the fake news with limited ground truth access and on the basis of limited data sets, including one-shot learning
++ feature selection and extraction methods for fake news detection
++ proposing how to compare and benchmark the fake news detectors
++ case studies and real-world applications
++ legal and societal aspects of fake news detection
++ data protection and GDPR in fake news detection challenge
+
 
 # Key dates
 
@@ -31,38 +37,20 @@ The main aim of this workshop is to discuss the problems of data difficulties, t
 | Author registration| 24 January – 28 February 2020|
 | Conference | 3-5 June 2020|
 
+# Workshop chairs
 
-<!--
-# Program
+<ul>
+<li>
+Prof. Michal Choras, UTP University of Science and Technology, Poland
+e-mail: chorasm@utp.edu.pl
+</li>
+<li>
+Dr. Konstantinos Demestichas
+e-mail: cdemest@cn.ntua.gr
+</li>
+</ul>
 
-*To be announced.*
--->
-
-<!--
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
--->
-
-<!--
-## Keynote speaker
-
-<div class="picture">
-  <img src="acano.jpg">
-  <div>
-  <h3>Alberto Cano</h3>
-  <h5>High Performance Data Mining on GPUs, Hadoop, Spark, and beyond</h5>
-  The ever-increasing dimensionality of data poses the main challenge to the scalability of data mining algorithms to run in reasonable time. Parallel and distributed architectures, particularly based on GPUs and the MapReduce model on Apache Hadoop or Spark, have become popular approaches to alleviate the prohibitive runtimes of machine learning algorithms on big data. Not only does the size of data increases the computational complexity but also the emergence of new data-level difficulties and calls for novel learning paradigms. Learning from imbalanced, high-dimensional, data streams with concept drift, or multi-label, to name a few, increase the complexity of algorithms to model such massive data accurately. Therefore, there is a need of new approaches to keep up with the increasing complexity and size of learning from difficult data. This talk reviews advances on the scalability of data mining in recent years and discusses the open issues and future lines of research.
-
-  </div>
-</div>
-
-<div class='cleaner'></div>
--->
-
-# Program committee
+# Program committee (tenatative)
 
 <ul>
 {% assign sorted = (site.data.pc | sort: 'last') %}
@@ -74,26 +62,6 @@ The main aim of this workshop is to discuss the problems of data difficulties, t
 </ul>
 
 
-# Organization commitee
-
-{% assign sorted = (site.data.oc) %}
-{% for person in sorted %}
-<div class="pictureoc">
-  <img src="{{person.img}}.jpg">
-  <div>
-  {{ person.first }} {{person.last}}, <em>{{person.university}}, {{person.country}}</em>
-  </div>
-</div>
-<div class='cleaner'></div>
-{% endfor %}
-
-<br><br>
-
-<center>
-<a href="https://kssk.pwr.edu.pl">
-<img src="kssk.png">
-</a>
-</center>
 
 <!--
 ---
