@@ -8,9 +8,12 @@ layout: post
 
 # About
 
-The problem of the fake news publication is not new and it already has been reported in ancient ages, but it has started having a huge impact especially on social media users. Such false information should be detected as soon as possible to avoid its negative influence on the readers and in some cases on their decisions, e.g., during the election. Therefore, the methods which can effectively detect fake news are the focus of intense research.
+Information analysis is nowadays crucial for societies, single citizens in their everyday life (e.g. while travelling, shopping, browsing, communication etc.) as well for businesses and overall economy. The right to be informed is one of fundamental requirements allowing for taking right decisions in a small and large scale (e.g. elections).
+However information spreading can be also used for disinformation. The problem of the fake news publication is not new and it already has been reported in ancient ages, but it has started having a huge impact especially on social media users or people watching media news (Internet, newspapers, tv etc.). Such false information should be detected as soon as possible to avoid its negative influence on the readers and in some cases on their decisions.
 
-The main aim of this section is to bring together researchers and scientists from basic computing disciplines (computer science and mathematics), experts in legal and societal aspects as well as  researchers from various application areas who are pioneering fake news analysis methods to discuss problems and solutions in this area, to identify new issues, and to shape future directions for research.
+Another problem and emerging challenge is coming from using automated information analysis and decision support systems (based on Artificial Intelligence (AI) and Machine Learning (ML) advances) as black-box single truth providers. If those information analysis systems are misused, attacked or fooled, their results will also lead to (dis-) information.
+
+The main aim of this workshop is to bring together researchers and scientists computational science who are pioneering (dis-)information analysis methods to discuss problems and solutions in this area, to identify new issues, and to shape future directions for research. Moreover, we invite prospective researchers to send papers concerning (dis-)information detection methods and architectures, explainability of information processing methods and decision support systems as well as their security.
 
 
 # Topics of interest
