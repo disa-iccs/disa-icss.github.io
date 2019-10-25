@@ -9,6 +9,7 @@ layout: post
 # About
 
 Information analysis is nowadays crucial for societies, single citizens in their everyday life (e.g. while travelling, shopping, browsing, communication etc.) as well for businesses and overall economy. The right to be informed is one of fundamental requirements allowing for taking right decisions in a small and large scale (e.g. elections).
+
 However information spreading can be also used for disinformation. The problem of the fake news publication is not new and it already has been reported in ancient ages, but it has started having a huge impact especially on social media users or people watching media news (Internet, newspapers, tv etc.). Such false information should be detected as soon as possible to avoid its negative influence on the readers and in some cases on their decisions.
 
 Another problem and emerging challenge is coming from using automated information analysis and decision support systems (based on Artificial Intelligence (AI) and Machine Learning (ML) advances) as black-box single truth providers. If those information analysis systems are misused, attacked or fooled, their results will also lead to (dis-) information.
@@ -18,16 +19,18 @@ The main aim of this workshop is to bring together researchers and scientists co
 
 # Topics of interest
 
-+ detection fake news detection in social media
-+ images and video manipulation recognition
-+ architectural frameworks and design for fake news detection
-+ learning how to detect the fake news in the presence of concept drift
-+ learning how to detect the fake news with limited ground truth access and on the basis of limited data sets, including one-shot learning
-+ feature selection and extraction methods for fake news detection
-+ proposing how to compare and benchmark the fake news detectors
-+ case studies and real-world applications
-+ legal and societal aspects of fake news detection
-+ data protection and GDPR in fake news detection challenge
+- computational methods for (dis-) information analysis, especially in heterogenous types of data (images, text, tweets etc.)
+- detection of fake news detection in social media
+- images and video manipulation recognition
+- architectural frameworks and design for (dis-)information detection
+- aspects of explainability of information analysis systems and methods (including explainability of ML)
+- adversarial attacks on information analysis
+- explainability of deep learning
+- learning how to detect the fake news in the presence of concept drift
+- learning how to detect the fake news with limited ground truth access and on the basis of limited data sets, including one-shot learning
+- proposing how to compare and benchmark the fake news detectors
+- case studies and real-world applications
+- human rights, legal and societal aspects of (dis-)information detection, including data protection and GDPR in practice
 
 
 # Key dates
