@@ -19,7 +19,7 @@ The main aim of this workshop is to bring together researchers and scientists co
 
 # Online meeting
 
-The joint sessions <em>“Classifier Learning from Difficult Data”</em> and <em>“Computational Methods for Emerging Problems in (dis-)Information Analysis </em>” will take place on June 4th, 2020. This event will be organized online using zoom.us (all technical details will be sent together with the final programme).
+The joint sessions <em>“Classifier Learning from Difficult Data”</em> and <em>“Computational Methods for Emerging Problems in (dis-)Information Analysis </em>” will take place on June 4th, 2020. The CLD2 and DIS-A workshops will take place via the zoom.us platform. Joining will be possible 15 minutes before the start of the meeting, which is at 8:45 AM (GMT + 2).
 
 <!--After the session we would like to rank the presentation – we will ask participants for their opinion and we would like to award 3 of them (using the waiver refund money – I will send you names , paper ids, and emails of the awarded presenters after the session):
 
