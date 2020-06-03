@@ -29,7 +29,7 @@ The joint sessions <em>“Classifier Learning from Difficult Data”</em> and <e
 You can join via the following [hyperlink](https://pwr-edu.zoom.us/j/91255889567?pwd=K2c1Z0F4ZTA4b1JvZVgxZjlXRUVZdz09), or by using the *join a meeting* function and providing the following data:
 - Meeting ID: 912 5588 9567
 
-Passwords were sent directly to each of the conference participants.
+Passwords were sent directly to each of the sessions participants.
 If you have any questions, please contact [Paweł Ksieniewicz](mailto:pawel.ksieniewicz@pwr.edu.pl) or [Paweł Zyblewski](mailto:pawel.zyblewski@pwr.edu.pl).
 
 Best regards and take care!
