@@ -2,7 +2,7 @@
 layout: post
 ---
 
-> The workshop on Computational methods for emerging problems in disinformation analysis is organized during the [International Conference on Computational Science ICCS 2020](https://www.iccs-meeting.org/iccs2020/) in Amsterdam, The Netherlands.
+> The workshop on Computational methods for emerging problems in disinformation analysis is organized during the [International Conference on Computational Science ICCS 2020](https://www.iccs-meeting.org/iccs2021/) in Kraków, Poland.
 
 > The session will be technically endorsement by IEEE SMC TC on Big Data Computing http://www.ieeesmc.org/technical-activities/cybernetics/big-data-computing as well by SocialTruth project (Socialtruth.eu), which has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No. 825477.
 
@@ -16,15 +16,11 @@ Another problem and emerging challenge is coming from using automated informatio
 
 The main aim of this workshop is to bring together researchers and scientists computational science who are pioneering (dis-)information analysis methods to discuss problems and solutions in this area, to identify new issues, and to shape future directions for research. Moreover, we invite prospective researchers to send papers concerning (dis-)information detection methods and architectures, explainability of information processing methods and decision support systems as well as their security.
 
-
+<!--
 # Online meeting
 
 The joint sessions <em>“Classifier Learning from Difficult Data”</em> and <em>“Computational Methods for Emerging Problems in (dis-)Information Analysis </em>” will take place on June 4th, 2020. The CLD2 and DIS-A workshops will take place via the zoom.us platform. Joining will be possible 15 minutes before the start of the meeting, which is at 8:45 AM (GMT + 2).
 
-<!--After the session we would like to rank the presentation – we will ask participants for their opinion and we would like to award 3 of them (using the waiver refund money – I will send you names , paper ids, and emails of the awarded presenters after the session):
-
-- Best presentation award – 100 EURO
-- 2x distinctions		75 EURO each -->
 
 You can join via the following [hyperlink](https://pwr-edu.zoom.us/j/91255889567?pwd=K2c1Z0F4ZTA4b1JvZVgxZjlXRUVZdz09), or by using the *join a meeting* function and providing the following data:
 - Meeting ID: 912 5588 9567
@@ -70,7 +66,7 @@ The meeting schedule of CLD2 and DIS-A workshops is as follows
 ||Sebastian Kula, Michał Choraś, Rafał Kozik, Pawel Ksieniewicz and Michał Wozniak<br> Sentiment Analysis for Fake News Detection by Means of Neural Networks|362|
 ||Roman Englert and Jörg Muschiol<br> Syntactic and Semantic Bias Detection and Countermeasures|25|
 ||Amir Ebrahimi Fard, Majid Mohammadi and Bartel van de Walle<br> Detecting Rumours in Disasters: An Imbalanced Learning Approach|90|
-
+-->
 
 # Topics of interest
 
@@ -87,16 +83,17 @@ The meeting schedule of CLD2 and DIS-A workshops is as follows
 - case studies and real-world applications
 - human rights, legal and societal aspects of (dis-)information detection, including data protection and GDPR in practice
 
-
 # Key dates
 
 | Milestone        | Date           |
 | ------------- |:-------------:|
-| Paper submission | 13 December 2019 |
-| Notification of acceptance of papers | 24 January 2020|
-| Camera-ready papers| 28 February 2020|
-| Author registration| 24 January – 28 February 2020|
-| Conference | 3-5 June 2020|
+| Paper submission | 18 December 2020 |
+| Notification to authors | 29 January 2021 |
+| Camera-ready papers | 5 March 2021 |
+| Author registration | 29 January – 5 March 2021 |
+| Non-author early registration | 29 January – 23 April 2021 |
+| Non-author late registration | from 24 April 2021 |
+| Conference sessions | 16-18 June 2021 |
 
 # Workshop chairs
 
@@ -104,6 +101,10 @@ The meeting schedule of CLD2 and DIS-A workshops is as follows
 <li>
 Prof. Michal Choras, UTP University of Science and Technology, Poland
 e-mail: chorasm@utp.edu.pl
+</li>
+<li>
+Prof. Robert Burduk, Wroclaw University of Science and Technology, Poland
+e-mail: robert.burduk@pwr.edu.pl
 </li>
 <li>
 Dr. Konstantinos Demestichas
