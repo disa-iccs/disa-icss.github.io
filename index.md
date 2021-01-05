@@ -87,11 +87,11 @@ The meeting schedule of CLD2 and DIS-A workshops is as follows
 
 | Milestone        | Date           |
 | ------------- |:-------------:|
-| Paper submission | 18 December 2020 |
-| Notification to authors | 29 January 2021 |
-| Camera-ready papers | 5 March 2021 |
-| Author registration | 29 January – 5 March 2021 |
-| Non-author early registration | 29 January – 23 April 2021 |
+| Paper submission | 15 January 2021 |
+| Notification to authors | 15 March 2021 |
+| Camera-ready papers | 5 April 2021 |
+| Author registration | 15 March – 5 April 2021 |
+| Non-author early registration | 15 March – 23 April 2021 |
 | Non-author late registration | from 24 April 2021 |
 | Conference sessions | 16-18 June 2021 |
 
