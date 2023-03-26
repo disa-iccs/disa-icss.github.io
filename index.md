@@ -90,12 +90,14 @@ The meeting schedule of CLD2 and DIS-A workshops is as follows
 | Paper submission | 2 May 2023 |
 | Notification to authors | 10 July 2023 |
 | Camera-ready papers | 7 August 2023 |
+| Conference sessions | 9-13 October 2023 |
+
 <!--
 | Author registration | 15 March – 5 April 2021 |
 | Non-author early registration | 15 March – 23 April 2021 |
 | Non-author late registration | from 24 April 2021 |
 -->
-| Conference sessions | 9-13 October 2023 |
+
 
 # Workshop chairs
 
