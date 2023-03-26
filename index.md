@@ -103,8 +103,8 @@ The meeting schedule of CLD2 and DIS-A workshops is as follows
 
 <ul>
 <li>
-Prof. Michal Choras, UTP University of Science and Technology, Poland
-e-mail: chorasm@utp.edu.pl
+Prof. Michal Choras, Bydgoszcz University of Science and Technology, Poland
+e-mail: michal.choras@pbs.edu.pl
 </li>
 <li>
 Prof. Michal Wozniak, Wroclaw University of Science and Technology, Poland
@@ -125,6 +125,9 @@ e-mail: cdemest@cn.ntua.gr
 </li>
  <li>
     Robert Burduk, Wroclaw University of Science and Technology, Poland
+</li>
+ <li>
+ Rafał Kozik, Bydgoszcz University of Science and Technology, Poland
 </li>
 </ul>
 <!--
