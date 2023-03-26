@@ -2,9 +2,9 @@
 layout: post
 ---
 
-> The workshop on Computational methods for emerging problems in disinformation analysis is organized during the [The 10th IEEE International Conference on Data Science and Advanced Analytics (DSAA)](https://conferences.sigappfr.org/dsaa2023/) in Thessaloniki, Greece.
+The workshop on Computational methods for emerging problems in disinformation analysis is organized during the [The 10th IEEE International Conference on Data Science and Advanced Analytics (DSAA)](https://conferences.sigappfr.org/dsaa2023/) in Thessaloniki, Greece.
 
-> The session will be technically endorsement by [IEEE SMC TC on Big Data Computing](http://www.ieeesmc.org/technical-activities/cybernetics/big-data-computing) as well by PROJECTS.
+The session will be technically endorsement by [IEEE SMC TC on Big Data Computing](http://www.ieeesmc.org/technical-activities/cybernetics/big-data-computing) as well by PROJECTS.
 
 # About
 
