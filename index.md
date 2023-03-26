@@ -118,7 +118,7 @@ e-mail: cdemest@cn.ntua.gr
 -->
 </ul>
 
-# Program committee (tenatative)
+# Program committee
 <ul>
 <li>
     Sebastian Basterrech, VSB-Technical University of Ostrava, Czech Republic
