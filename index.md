@@ -2,9 +2,9 @@
 layout: post
 ---
 
-> The workshop on Computational methods for emerging problems in disinformation analysis is organized during the [International Conference on Computational Science ICCS 2021](https://www.iccs-meeting.org/iccs2021/) in Kraków, Poland.
+> The workshop on Computational methods for emerging problems in disinformation analysis is organized during the [The 10th IEEE International Conference on Data Science and Advanced Analytics (DSAA)](https://conferences.sigappfr.org/dsaa2023/) in Thessaloniki, Greece.
 
-> The session will be technically endorsement by IEEE SMC TC on Big Data Computing http://www.ieeesmc.org/technical-activities/cybernetics/big-data-computing as well by SocialTruth project (Socialtruth.eu), which has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No. 825477.
+> The session will be technically endorsement by [IEEE SMC TC on Big Data Computing](http://www.ieeesmc.org/technical-activities/cybernetics/big-data-computing) as well by PROJECTS.
 
 # About
 
@@ -87,13 +87,15 @@ The meeting schedule of CLD2 and DIS-A workshops is as follows
 
 | Milestone        | Date           |
 | ------------- |:-------------:|
-| Paper submission | 15 February 2021 |
-| Notification to authors | 15 March 2021 |
-| Camera-ready papers | 5 April 2021 |
+| Paper submission | 2 May 2023 |
+| Notification to authors | 10 July 2023 |
+| Camera-ready papers | 7 August 2023 |
+<!--
 | Author registration | 15 March – 5 April 2021 |
 | Non-author early registration | 15 March – 23 April 2021 |
 | Non-author late registration | from 24 April 2021 |
-| Conference sessions | 16-18 June 2021 |
+-->
+| Conference sessions | 9-13 October 2023 |
 
 # Workshop chairs
 
