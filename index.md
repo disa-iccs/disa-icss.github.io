@@ -123,6 +123,9 @@ e-mail: cdemest@cn.ntua.gr
 <li>
     Sebastian Basterrech, VSB-Technical University of Ostrava, Czech Republic
 </li>
+ <li>
+    Robert Burduk, Wroclaw University of Science and Technology, Poland
+</li>
 </ul>
 <!--
 <ul>
