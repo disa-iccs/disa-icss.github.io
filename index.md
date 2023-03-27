@@ -2,7 +2,7 @@
 layout: post
 ---
 
-**The workshop on Computational methods for emerging problems in disinformation analysis is organized during the [The 10th IEEE International Conference on Data Science and Advanced Analytics (DSAA)](https://conferences.sigappfr.org/dsaa2023/) in Thessaloniki, Greece.**
+**The workshop on Computational methods for emerging problems in disinformation analysis DISA@DSAA is organized during the [The 10th IEEE International Conference on Data Science and Advanced Analytics (DSAA)](https://conferences.sigappfr.org/dsaa2023/) in Thessaloniki, Greece.**
 
 **The session will be technically endorsement by [IEEE SMC TC on Big Data Computing](http://www.ieeesmc.org/technical-activities/cybernetics/big-data-computing) as well by [Lifelong Machine Learning on Data Stream](https://www.kssk.pwr.edu.pl/projects/lmlds) and [SWAROG](https://www.kssk.pwr.edu.pl/projects/swarog) projects.**
 
@@ -120,15 +120,89 @@ e-mail: cdemest@cn.ntua.gr
 
 # Program committee
 <ul>
+ <li>
+ Evgenia F. Adamopoulou, ICCS, NTUA, Greece
+</li> 
+
 <li>
+Tomasz Andrysiak, Bydgoszcz University of Science and Technology, Poland
+</li>
+ 
+ <li>
+ Łukasz Apiecionek, Kazimierz Wielki University, Bydgoszcz, Poland
+</li>
+ 
+ <li>
+  Stan Assier, QWANT, France
+</li>
+ 
+ <li>
     Sebastian Basterrech, VSB-Technical University of Ostrava, Czech Republic
 </li>
  <li>
     Robert Burduk, Wroclaw University of Science and Technology, Poland
 </li>
+
+ <li>
+  Krzysztof Cabaj, Warsaw University of Technology, Poland
+</li>
+ 
+ <li>
+  Konstantinos Demestichas, ICCS, NTUA, Greece
+</li>
+ 
+  <li>
+   Agata Gielczyk, Bydgoszcz University of Science and Technology, Poland
+</li>
+ 
+  <li>
+   Manuel Grana, University of the Basque Country, Spain
+</li>
+ 
+  <li>
+   Álvaro Herrero, University of Burgos, Spain
+</li>
+ <li>
+  Dagmara Jaroszewska-Choras, Kazimierz Wielki University, Bydgoszcz
+</li>
+ <li>
+  Jędrzej Kozal, Wroclaw University of Science and Technology, Poland
+</li>
+<li>
+  Michał Koziarski, Wroclaw University of Science and Technology, Poland
+</li>
+ 
  <li>
  Rafał Kozik, Bydgoszcz University of Science and Technology, Poland
 </li>
+
+ 
+  <li>
+   Pawel Ksieniewicz, Wroclaw University of Science and Technology, Poland
+</li>
+ 
+  <li>
+   Iulia Lazar, Infocons, Romania
+</li>
+ 
+  <li>
+   Wojciech Mazurczyk, Warsaw University of Technology, Poland
+</li>
+ 
+  <li>
+   David Megias, UoC, Barcelona, Spain
+</li>
+ 
+  <li>
+   Marek Pawlicki, Bydgoszcz University of Science and Technology, Poland
+</li>
+  <li>
+   Mariusz Topolski, Wroclaw University of Science and Technology, Poland
+</li>
+  <li>
+   Giulia Venturi, Z&P, Italy
+</li>
+  
 </ul>
 <!--
 <ul>
