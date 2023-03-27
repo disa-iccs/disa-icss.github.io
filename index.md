@@ -196,7 +196,12 @@ Tomasz Andrysiak, Bydgoszcz University of Science and Technology, Poland
   <li>
    Marek Pawlicki, Bydgoszcz University of Science and Technology, Poland
 </li>
-  <li>
+ 
+ <li>
+  Jan Platoš, VSB-Technical University of Ostrava, Czech Republic
+ </li>
+ 
+ <li>
    Mariusz Topolski, Wroclaw University of Science and Technology, Poland
 </li>
   <li>
