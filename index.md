@@ -206,7 +206,7 @@ Tomasz Andrysiak, Bydgoszcz University of Science and Technology, Poland
 </ul>
 
 
-#Paper submission
+# Paper submission
 
 All papers should be submitted electronically via [EasyChair](https://easychair.org/my/conference?conf=dsaa2023).
 
