@@ -207,7 +207,9 @@ Tomasz Andrysiak, Bydgoszcz University of Science and Technology, Poland
   <li>
    Giulia Venturi, Z&P, Italy
 </li>
-  
+  <li>
+  Paweł Wachel, Wroclaw University of Science and Technology, Poland
+  </li>
 </ul>
 
 
