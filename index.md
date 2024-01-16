@@ -123,6 +123,7 @@ e-mail: michal.wozniak@pwr.edu.pl
 </ul>
 
 # Program committee
+
 <ul>
  <li>
  Evgenia F. Adamopoulou, ICCS, NTUA, Greece
@@ -203,6 +204,7 @@ Tomasz Andrysiak, Bydgoszcz University of Science and Technology, Poland
 
 
 # Paper submission
+
 All papers should be submitted electronically via TO BE ANNOUNCED.
 
 <!--[EasyChair](https://easychair.org/my/conference?conf=dsaa2023).
