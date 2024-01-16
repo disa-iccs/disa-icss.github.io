@@ -104,13 +104,10 @@ We particulary invite works focuses on:
 Prof. Michał Choraś, Bydgoszcz University of Science and Technology, Poland
 e-mail: michal.choras@pbs.edu.pl
 </li>
- 
-<ul>
 <li>
 Prof. Rafał Kozik, Bydgoszcz University of Science and Technology, Poland 
 e-mail: rkozik@pbs.edu.pl
 </li>
-<ul>
 <li>
 Prof. Paweł Ksieniewicz, Wrocław University of Science and Technology, Poland, 
  e-mail: pawel.ksieniewicz@pwr.edu.pl
