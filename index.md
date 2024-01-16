@@ -2,19 +2,14 @@
 layout: post
 ---
 
-**The workshop on Computational methods for emerging problems in disinformation analysis DISA@DSAA is organized during the [The 10th IEEE International Conference on Data Science and Advanced Analytics (DSAA)](https://conferences.sigappfr.org/dsaa2023/) in Thessaloniki, Greece.**
+**The workshop on Computational methods for emerging problems in disinformation analysis DISA@ESORICS is organized during the [29th European Symposium on Research in Computer Security (ESORICS) 2024]([https://conferences.sigappfr.org/dsaa2023/](https://esorics2024.org/)) in Bydgoszcz, Poland.**
 
 **The session will be technically endorsement by [IEEE SMC TC on Big Data Computing](http://www.ieeesmc.org/technical-activities/cybernetics/big-data-computing) as well by [Lifelong Machine Learning on Data Stream](https://www.kssk.pwr.edu.pl/projects/lmlds) and [SWAROG](http://swarog-ai.pl/) projects.**
 
 # About
 
-Information analysis is nowadays crucial for societies, single citizens in their everyday life (e.g. while travelling, shopping, browsing, communication etc.) as well for businesses and overall economy. The right to be informed is one of fundamental requirements allowing for taking right decisions in a small and large scale (e.g. elections).
+Information analysis is nowadays crucial for societies, single citizens in their everyday life (e.g., while traveling, shopping, browsing, communication, etc.), as well for businesses and the overall economy. The right to be informed is one of the fundamental requirements for making the right decisions on a small and large scale (e.g., elections). However, information spreading can also be used for disinformation. The problem of fake news publication is not new, and it already has been reported in ancient ages, but it has started having a huge impact, especially on social media users or people watching media news (Internet, newspapers, TV, etc.). Such false information should be detected as soon as possible to avoid its negative influence on the readers and, in some cases, their decisions.
 
-However information spreading can be also used for disinformation. The problem of the fake news publication is not new and it already has been reported in ancient ages, but it has started having a huge impact especially on social media users or people watching media news (Internet, newspapers, tv etc.). Such false information should be detected as soon as possible to avoid its negative influence on the readers and in some cases on their decisions.
-
-Another problem and emerging challenge is coming from using automated information analysis and decision support systems (based on Artificial Intelligence (AI) and Machine Learning (ML) advances) as black-box single truth providers. If those information analysis systems are misused, attacked or fooled, their results will also lead to (dis-) information.
-
-The main aim of this workshop is to bring together researchers and scientists computational science who are pioneering (dis-)information analysis methods to discuss problems and solutions in this area, to identify new issues, and to shape future directions for research. Moreover, we invite prospective researchers to send papers concerning (dis-)information detection methods and architectures, explainability of information processing methods and decision support systems as well as their security.
 
 <!--
 # Online meeting
@@ -70,6 +65,9 @@ The meeting schedule of CLD2 and DIS-A workshops is as follows
 
 # Topics of interest
 
+The main aim of this workshop is to bring together researchers and scientists who are pioneering (dis-)information analysis methods to discuss problems and solutions in this area, identify new issues, and shape future research directions. 
+We particulary invite works focuses on:
+
 - computational methods for (dis-) information analysis, especially in heterogenous types of data (images, text, tweets etc.)
 - detection of fake news detection in social media
 - images and video manipulation recognition
@@ -87,10 +85,10 @@ The meeting schedule of CLD2 and DIS-A workshops is as follows
 
 | Milestone        | Date           |
 | ------------- |:-------------:|
-| Paper submission | new 5 June 2023 |
-| Notification to authors | 17 July 2023 |
-| Camera-ready papers | 7 August 2023 |
-| Conference sessions | 9-13 October 2023 |
+| Paper submission | be announced |
+| Notification to authors | be announced |
+| Camera-ready papers | be announced |
+| Conference sessions | 16-20 September 2024 |
 
 <!--
 | Author registration | 15 March – 5 April 2021 |
@@ -106,16 +104,22 @@ The meeting schedule of CLD2 and DIS-A workshops is as follows
 Prof. Michał Choraś, Bydgoszcz University of Science and Technology, Poland
 e-mail: michal.choras@pbs.edu.pl
 </li>
+ 
+<ul>
+<li>
+Prof. Rafał Kozik, Bydgoszcz University of Science and Technology, Poland 
+e-mail: rkozik@pbs.edu.pl
+</li>
+<ul>
+<li>
+Prof. Paweł Ksieniewicz, Wrocław University of Science and Technology, Poland, 
+ e-mail: pawel.ksieniewicz@pwr.edu.pl
+</li>
 <li>
 Prof. Michał Woźniak, Wroclaw University of Science and Technology, Poland
 e-mail: michal.wozniak@pwr.edu.pl
 </li>
-<!--
- <li>
-Dr. Konstantinos Demestichas
-e-mail: cdemest@cn.ntua.gr
-</li>
--->
+
 </ul>
 
 # Program committee
@@ -165,21 +169,6 @@ Tomasz Andrysiak, Bydgoszcz University of Science and Technology, Poland
  <li>
   Dagmara Jaroszewska-Choras, Kazimierz Wielki University, Bydgoszcz
 </li>
- <li>
-  Jędrzej Kozal, Wroclaw University of Science and Technology, Poland
-</li>
-<li>
-  Michał Koziarski, Wroclaw University of Science and Technology, Poland
-</li>
- 
- <li>
- Rafał Kozik, Bydgoszcz University of Science and Technology, Poland
-</li>
-
- 
-  <li>
-   Pawel Ksieniewicz, Wroclaw University of Science and Technology, Poland
-</li>
  
   <li>
    Iulia Lazar, Infocons, Romania
@@ -208,20 +197,23 @@ Tomasz Andrysiak, Bydgoszcz University of Science and Technology, Poland
    Giulia Venturi, Z&P, Italy
 </li>
   <li>
-  Paweł Wachel, Wroclaw University of Science and Technology, Poland
+  Paweł Zyblewski, Wroclaw University of Science and Technology, Poland
   </li>
 </ul>
 
 
 # Paper submission
 
-All papers should be submitted electronically via [EasyChair](https://easychair.org/my/conference?conf=dsaa2023).
+All papers should be submitted electronically via TO BE ANNOUNCED.
+
+<!--[EasyChair](https://easychair.org/my/conference?conf=dsaa2023).
 
 The length of each paper submitted to the Research tracks should be no more than ten (10) pages and should be formatted following the standard 2-column U.S. letter style of IEEE Conference template. For further information and instructions, see the [IEEE Proceedings Author Guidelines](http://www.ieee.org/conferences_events/conferences/publishing/templates.html).
+-->
 
 All submissions will be blind reviewed by the Program Committee on the basis of technical quality, relevance to the conference’s topics of interest, originality, significance, and clarity. Author names and affiliations must not appear in the submissions, and bibliographic references must be adjusted to preserve author anonymity. Submissions failing to comply with paper formatting and authors anonymity will be rejected without reviews.
 
-Because of the double-blind review process, non-anonymous papers that have been issued as technical reports or similar cannot be considered for DSAA’2023. An exception to this rule applies to arXiv papers that were published in arXiv at least a month prior to DSAA’2023 submission deadline. Authors can submit these arXiv papers to DSAA provided that the submitted paper’s title and abstract are different from the one appearing in arXiv.
+Because of the double-blind review process, non-anonymous papers that have been issued as technical reports or similar cannot be considered for ECORICS’2024. An exception to this rule applies to arXiv papers that were published in arXiv at least a month prior to ECORICS’2024 submission deadline. Authors can submit these arXiv papers to DSAA provided that the submitted paper’s title and abstract are different from the one appearing in arXiv.
 
 <!--
 <ul>
