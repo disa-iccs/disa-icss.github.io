@@ -85,9 +85,9 @@ We particulary invite works focuses on:
 
 | Milestone        | Date           |
 | ------------- |:-------------:|
-| Paper submission | be announced |
-| Notification to authors | be announced |
-| Camera-ready papers | be announced |
+| Paper submission | 6 June 2024 |
+| Notification to authors | 7 July 2024 |
+| Camera-ready papers | 19 August 2024 |
 | Conference sessions | 16-20 September 2024 |
 
 <!--
