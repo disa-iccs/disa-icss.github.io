@@ -202,7 +202,7 @@ Tomasz Andrysiak, Bydgoszcz University of Science and Technology, Poland
 
 # Paper submission
 
-All papers should be submitted electronically via TO BE ANNOUNCED.
+All papers should be submitted electronically via [Easychair](https://easychair.org/conferences/?conf=disaesorics2024).
 
 <!--[EasyChair](https://easychair.org/my/conference?conf=dsaa2023).
 
