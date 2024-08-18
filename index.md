@@ -202,17 +202,19 @@ Tomasz Andrysiak, Bydgoszcz University of Science and Technology, Poland
 # Conference program
 
 10:45 - 12:15
-
+<ul>
 <li>Session Opening (prof. Michał Choraś and prof. Rafał Kozik) (10 minutes)</li>
 <li>Fake News/Disinformation detection research at PBS: SocialTruth SWAROG projects
 (prof. Michał Choraś) (20 minutes) </li>
 <li>Keynote Presentation (dr Marek Pawlicki) (30 minutes)</li>
 <li>Q&A</li>
+</ul>
 
 12:15 - 13:45 Lunch Break
 
 13:45 - 15:15
 
+<ul>
 <li>Janusz Bobulski and Mariusz Kubanek “Recognition of Remakes and Fake Facial Images” </li>
 <li>Marek Pawlicki, Federica Uccello, Salvatore D&#39;Antonio, Rafal Kozik and Michal Choras
 “A Novel Method of Improving Intrusion Detection Systems Robustness Against
@@ -223,6 +225,7 @@ Cybersecurity”</li>
 <li>Mateusz Walczak and Aneta Poniszewska-Maranda
 “Data structures towards the recognition of fake news and disinformation written
 in Polish”</li>
+</ul>
 
 # Paper submission
 
