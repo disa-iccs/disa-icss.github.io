@@ -200,6 +200,7 @@ Tomasz Andrysiak, Bydgoszcz University of Science and Technology, Poland
 </ul>
 
 # Conference program
+
 10:45 - 12:15
 
 <li>Session Opening (prof. Michał Choraś and prof. Rafał Kozik) (10 minutes)</li>
