@@ -227,18 +227,19 @@ Cybersecurity”</li>
 in Polish”</li>
 </ul>
 
+<!--
 # Paper submission
 
-All papers should be submitted electronically via [Easychair](https://easychair.org/conferences/?conf=disaesorics2024).
+All papers should be submitted electronically via [Easychair](https://easychair.org/conferences/?conf=disaesorics2024).-->
 
 <!--[EasyChair](https://easychair.org/my/conference?conf=dsaa2023).
 
 The length of each paper submitted to the Research tracks should be no more than ten (10) pages and should be formatted following the standard 2-column U.S. letter style of IEEE Conference template. For further information and instructions, see the [IEEE Proceedings Author Guidelines](http://www.ieee.org/conferences_events/conferences/publishing/templates.html).
 -->
-
+<!--
 All submissions will be blind reviewed by the Program Committee on the basis of technical quality, relevance to the conference’s topics of interest, originality, significance, and clarity. Author names and affiliations must not appear in the submissions, and bibliographic references must be adjusted to preserve author anonymity. Submissions failing to comply with paper formatting and authors anonymity will be rejected without reviews.
 
-Because of the double-blind review process, non-anonymous papers that have been issued as technical reports or similar cannot be considered for ECORICS’2024. 
+Because of the double-blind review process, non-anonymous papers that have been issued as technical reports or similar cannot be considered for ECORICS’2024. -->
 <!--
 An exception to this rule applies to arXiv papers that were published in arXiv at least a month prior to ECORICS’2024 submission deadline. Authors can submit these arXiv papers to ECORICS's024 provided that the submitted paper’s title and abstract are different from the one appearing in arXiv.
 -->
